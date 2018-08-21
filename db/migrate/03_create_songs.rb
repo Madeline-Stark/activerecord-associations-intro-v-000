@@ -7,3 +7,4 @@ class CreateSongs < ActiveRecord::Migration[4.2]
     end
   end
 end
+#songs is functioning as the join table with an artist id and a genre id 
